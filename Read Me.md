@@ -1,7 +1,7 @@
 ## Machine Learning Project
 The code is rather straight forward in an attempt to use the `caret` package material from the class.
 
-## processing times
+## Processing times
 I should have added some sort of benchmarking to measure the time it took to run the ML portions, suffice it to say,
 that as I write this, the code has run for well over 39 minutes.  Furthermore, my HTML file, the one posted on this site
 seems to not want to display outputs.  I am attempting to run it as a github document, but I don't know if that will fix
